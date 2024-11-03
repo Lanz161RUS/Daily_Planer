@@ -1,4 +1,4 @@
-package main;
+package view;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.Scanner;
 
 import model.Note;
-import view.NotebookView;
 
 
 public class ConsoleNotebookView implements NotebookView {

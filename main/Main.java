@@ -2,6 +2,7 @@ package main;
 
 import java.util.Scanner;
 
+import view.ConsoleNotebookView;
 import view.NotebookView;
 import presenter.NotebookPresenter;
 import model.Notebook;
